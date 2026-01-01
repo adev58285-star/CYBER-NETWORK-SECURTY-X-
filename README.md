@@ -31,7 +31,7 @@ html
   </a>
 </div>
 <br>
-<p align="center">
+<p align="center">aryan
     <a href="https://junex-pair-98be468c8276.herokuapp.com/" target="_blank">
         <img alt="PAIR CODE 2" src="https://img.shields.io/badge/PAIR%20CODE%202-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
